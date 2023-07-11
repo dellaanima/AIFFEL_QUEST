@@ -22,7 +22,7 @@
 2. 코드의 작동 방식에 대한 개선 방법을 주석으로 기록합니다.
 3. 참고한 링크 및 ChatGPT 프롬프트 명령어가 있다면 주석으로 남겨주세요.
 Quest01_1 주석문을 몇줄 추가했습니다
-```
+```python
 for learning_rate in LEARNING_RATES:
     W = np.random.randn(10)
     b = np.random.randn()
